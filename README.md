@@ -1,4 +1,4 @@
-![Banner](./cosiek2.png)
+![Banner](./Baner.png)
 
 
 # Hi! I'm Matex
