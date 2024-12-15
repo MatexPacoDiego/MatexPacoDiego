@@ -1,4 +1,4 @@
-<img align="left" width="200" src="https://i.pinimg.com/736x/e4/11/45/e41145787c95ba513db2d980fd6289f3.jpg" alt="Avatar"/>
+<img align="left" width="100%" src="https://i.pinimg.com/736x/e4/11/45/e41145787c95ba513db2d980fd6289f3.jpg" alt="Avatar"/>
 
 # Matex  
 **Front-End Developer** | **UI/UX Designer**
