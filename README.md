@@ -1,4 +1,4 @@
-<img align="left"  src="https://i.pinimg.com/736x/8a/13/2a/8a132a64d82368df8f478804558e5787.jpg" alt="Avatar"/>
+<img align="left"  src="https://github.com/MatexPacoDiego/MatexPacoDiego/blob/main/cosiek.png?raw=true" alt="Avatar"/>
 
 # Matex  
 **Front-End Developer** | **UI/UX Designer**
