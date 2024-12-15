@@ -1,9 +1,9 @@
-<img align="left" width="200" src="https://your-image-url.com/avatar.png" alt="Avatar"/>
+<img align="left" width="200" src="https://i.pinimg.com/736x/e4/11/45/e41145787c95ba513db2d980fd6289f3.jpg" alt="Avatar"/>
 
-# REVKU  
+# Matex  
 **Front-End Developer** | **UI/UX Designer**
 
-[🌐 revku.dev](https://revku.dev) | [📧 revku@revku.dev](mailto:revku@revku.dev) | [🎮 revku (Discord)](#)  
+[🌐 revku.dev](https://revku.dev) | [📧 revku@revku.dev](mailto:28.matimateusz@gmail.com) | [🎮 Matex (Discord)](#)  
 
 ---
 
